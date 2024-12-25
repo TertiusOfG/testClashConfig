@@ -1,3 +1,6 @@
 # semrush.fun
 # From https://github.com/ACL4SSR/ACL4SSR/issues/121#issuecomment-1793673237
 DOMAIN-SUFFIX,ibspot.com
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-KEYWORD,amazon
